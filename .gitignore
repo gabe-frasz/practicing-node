@@ -16,6 +16,7 @@
 
 # production
 /build
+/dist
 
 # misc
 .DS_Store
@@ -44,4 +45,3 @@ next-env.d.ts
 /public/worker-*.js.map
 /public/workbox-*.js
 /public/workbox-*.js.map
-
