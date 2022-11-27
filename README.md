@@ -6,13 +6,6 @@
 [![GitHub license](https://img.shields.io/github/license/SlyCooper-n/practising-node?style=flat-square)](https://github.com/SlyCooper-n/practising-node/blob/main/LICENSE)
 [![Github commit](https://img.shields.io/github/last-commit/SlyCooper-n/practising-node?color=blue&style=flat-square)](https://github.com/SlyCooper-n/practising-node/commits/main)
 
-## Table of Contents
-
-- [Disney+ clone](#disney-clone)
-  - [Table of Contents](#table-of-contents)
-  - [:pushpin: General Information](#pushpin-general-information)
-  - [:rocket: Running this project](#rocket-running-this-project)
-
 ## :pushpin: General Information
 
 This is a simple project built exclusively for practising Node.js, following the main idea of SOLID and testing outside of any framework and/or database. So I won't be working on it when it's finished and it will only be used for documentation purposes.
